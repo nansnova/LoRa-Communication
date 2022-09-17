@@ -15,4 +15,4 @@ The activities of this project include:
      - Speed of the vehicle
      - Fuel level
 
-![Result](C:\Users\nancy\Documents\Python Scripts\LoRa-Communication\Reto\dashboard_result.png)
+![dashboard_result](https://user-images.githubusercontent.com/58990107/190847377-94ece0cb-cba6-4490-b8fb-bb2fe0d31725.png)
