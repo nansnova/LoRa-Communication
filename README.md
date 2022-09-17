@@ -3,7 +3,7 @@
 The activities of this project include:
 1. Long Range communications protocol implemented in actual LoRa transceivers that aim to transmit low-frequency data between them.
 
-![LoRa_bb](https://user-images.githubusercontent.com/58990107/190847572-1586fdb9-327f-4cee-9e63-fcb78f55a624.png)
+![Architecture](https://user-images.githubusercontent.com/58990107/190847953-8d9fe989-c7a2-4d63-881f-2f451fdc79e3.png)
 
 2. Randomly generated data (Synthetic data) using consistent values from a previous research of variables of interest and real-time readings for a simple sensor station to simulate real data. 
 
